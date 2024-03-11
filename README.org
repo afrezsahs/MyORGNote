@@ -1,0 +1,7 @@
+#+TAGS: { FAILS(f) PARTLY(p) WORKS(w) example(e)}
+#+EXPORT_EXCLUDE_TAGS: noexport
+
+
+* MyORGNote
+- This is project where I wrote and publish my note for everything in ORG-Mode
+- 
