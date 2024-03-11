@@ -1,0 +1,25 @@
+* Example.org
+This is place where I test all ORG feature I need
+
+* Heading 
+** SubHeading 1
++ List 1
++ List 2
++ List 3
+** SubHeading 2 
+1) List 1
+2) List 2
+3) List 3
+** Hyperlink
+*** Simple Hyperlink
+[[https://example.com][This is a Link]]
+*** Tag Link
+[[https://github.com/afrezsahs/MyORGNote/new/main#exampleorg][Back To Top]]
+** Simple Table
+| Column 1 | Column 2 | Column 3 |
+|---------+----------+----------|
+| Row 2   |          |          |
+| Row 3   |          |          | 
+
+** Example Image
+[[file:sampleImage.png]]
