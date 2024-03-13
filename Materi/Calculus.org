@@ -1,11 +1,16 @@
 * Calculus 
-  ** Function Algebra
+** Function Algebra
 
-    *** Constant
+*** Constant
 
-    *** Polinom
-      1. Linear
-      2. Kuadrad
-    *** Pecahan
-  ** Fuction Transcendent
-    *** Irasional
+*** Polinom
+1. Linear
+2. Kuadrad
+*** Pecahan
+** Fuction Transcendent
+*** Irasional
+*** Logaritma
+*** Eksponensial 
+*** Trigonometri
+*** Siklometri
+*** Hiperbolik
